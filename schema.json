@@ -1,0 +1,14 @@
+{
+  "topic_url": {
+    "name": "Topic URL",
+    "type": "string",
+    "default": "",
+    "hint": "Topic URL you want to push to"
+  },
+  "as_tool": {
+    "name": "As Tool",
+    "type": "switch",
+    "default": false,
+    "hint": "Register ntfy as a LLM tool"
+  }
+}

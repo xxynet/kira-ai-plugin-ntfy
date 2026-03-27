@@ -1,0 +1,8 @@
+{
+    "display_name": "ntfy",
+    "plugin_id": "kira-ai-plugin-ntfy",
+    "version": "1.0.0",
+    "author": "xxynet",
+    "description": "Push notifications to ntfy",
+    "repo": "https://github.com/xxynet/kira-ai-plugin-ntfy"
+}
