@@ -10,5 +10,11 @@
     "type": "switch",
     "default": false,
     "hint": "Register ntfy as a LLM tool"
+  },
+  "recv_topics": {
+    "name": "Receive Topics",
+    "type": "json",
+    "default": {},
+    "hint": "Topics you want your AI to receive, see README"
   }
 }
